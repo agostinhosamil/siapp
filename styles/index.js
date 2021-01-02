@@ -7,3 +7,7 @@ export const GlobalStyles = createGlobalStyle`
 		background-color: #f7f7f7;
 	}
 `
+
+export const ApplicationContainer = styled.div`
+	position: relative;
+`
